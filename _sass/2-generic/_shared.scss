@@ -21,6 +21,16 @@ pre {
   margin-bottom: $base-spacing-unit;
 }
 
+table {
+  border-top : 1px solid #444444;
+  background: #f2f2f2;
+}
+th {
+  background-color: #d3d3d3;
+}
+th,td {
+  border-bottom : 1px solid #444444;
+}
 
 /**
  * Consistent indentation for lists.
